@@ -1,2 +1,3 @@
-[description.txt](https://github.com/Lag-H/Photosensitive-Epilepsy-Screen-Protector/files/7026114/description.txt)
 # Photosensitive-Epilepsy-Screen-Protector
+
+Software that Monitors the display in real time and blocks quick flashes and sudden colour changes that can trigger seizures for people with photosensitive epilepsy.
